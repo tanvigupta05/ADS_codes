@@ -1,3 +1,5 @@
+// count no of moves for tower of hanoi funct.
+
 public class countMoves {
     public static int count(int n){
         if(n==1) return 1;
