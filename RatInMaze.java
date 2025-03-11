@@ -1,6 +1,5 @@
 // Rat in a maze
 
-
 import java.util.ArrayList;
 import java.util.List;
 
